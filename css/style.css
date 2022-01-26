@@ -18,3 +18,11 @@ body{
 #Container h1{
     font-size: 20px;
 }
+
+#Header{
+    background: #33A;
+    color: bisque;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
