@@ -5,14 +5,16 @@ body{
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: #333;
 }
 
 #Container{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid aqua;
     margin: 0 auto;
+    background-color: white;
 }
 
 #Container h1{
@@ -25,4 +27,10 @@ body{
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
+    text-align: center;
+}
+
+#Header #logo{
+    width: 40px;
+    vertical-align: middle;
 }
