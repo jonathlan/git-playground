@@ -34,3 +34,10 @@ body{
     width: 40px;
     vertical-align: middle;
 }
+
+#footer{
+    background-color: grey;
+    color: #DDD;
+    padding: 0.5em;
+    text-align: center;
+}
