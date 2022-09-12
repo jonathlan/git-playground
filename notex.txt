@@ -8,4 +8,6 @@ We have gone to the past, let's rewrite history here.
 
 Playing around with git reset --soft.
 
+Main1 - This is for the rebase test
+
 One more line to the history.
