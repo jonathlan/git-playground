@@ -10,4 +10,6 @@ Playing around with git reset --soft.
 
 Main1 - This is for the rebase test
 
+Main2 - A commit done after the changes to experiment branch
+
 One more line to the history.
