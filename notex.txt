@@ -10,6 +10,8 @@ Playing around with git reset --soft.
 
 Exp1 - From 'experiment' branch
 
+Exp2 - Second experiment line
+
 Main1 - This is for the rebase test
 
 Main2 - A commit done after the changes to experiment branch
