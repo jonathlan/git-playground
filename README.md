@@ -13,6 +13,7 @@ This is a place where I can do commits, merges, git reset or rebase, and I don't
 In future, the idea of this project is to hold my git tests, specially for complex git operations. 
 
 * One thing I want to try now is cherry-picking
+* To accomplish that I will need more than one commit.
 
 ## Credits
-This project is inspired in the cours git and git hub from Platzi.
+This project is inspired in the course git and git hub from Platzi.
