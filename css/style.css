@@ -10,7 +10,6 @@ body{
 
 #Container{
     width: 70%;
-    padding: 1em;
     text-align: left;
     border: 1px solid aqua;
     margin: 0 auto;
@@ -33,6 +32,10 @@ body{
 #Header #logo{
     width: 40px;
     vertical-align: middle;
+}
+
+#Post{
+    padding: 1em;
 }
 
 #footer{
